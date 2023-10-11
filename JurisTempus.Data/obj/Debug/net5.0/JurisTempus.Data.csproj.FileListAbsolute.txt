@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.deps.json
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.runtimeconfig.json
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.dll
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\bin\Debug\net5.0\JurisTempus.Data.pdb
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.dll
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\refint\JurisTempus.Data.dll
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.pdb
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\JurisTempus.Data.genruntimeconfig.cache
+C:\Users\Alex\source\repos\ModelsCourse-main\ModelsCourse-main\src\JurisTempus.Data\obj\Debug\net5.0\ref\JurisTempus.Data.dll
